@@ -1,5 +1,5 @@
 import { INCREMENT, DECREMENT } from "../actions";
-import Counter from "../components/Counter";
+// import Counter from "../components/Counter";
 
 const initialState = {
   count: 0
